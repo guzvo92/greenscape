@@ -10,7 +10,8 @@ https://www.canva.com/design/DAFmBhz7vyw/lLYNidfIWD0Rz5qu-cslJg/edit?utm_content
 
 
 ## Basic functionality in the Principal basic logic (EXOS)
-- ✅ use of hashmaps,vectors,ActorId,structs,metadata
+- ✅ Use of hashmaps,vectors,ActorId,structs,metadata
+- ✅ List raid/wild coordinates (add/remove/state) hashmap parsed to vector
 - ✅ List wallet seeders (add/remove/state)
 - ✅ List wallets curators (add/remove/state)
 - ✅ Avoid duplicity in wallets vectors
