@@ -1,8 +1,5 @@
 # Greenscape
 
-## Presentation Link
-https://www.canva.com/design/DAFmBhz7vyw/lLYNidfIWD0Rz5qu-cslJg/edit?utm_content=DAFmBhz7vyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 ## Demo video
 https://youtu.be/Qzj0kA0ffds
 
